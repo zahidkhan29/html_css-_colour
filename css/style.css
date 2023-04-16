@@ -1,0 +1,82 @@
+.col1{
+	width: 400px;
+	margin: 0 auto;
+	font-size: 40px;
+	
+	background: blanchedalmond;
+	text-align: center;
+}
+.col2{ width: 30%;
+	   font-size: 30px;
+	   background: skyblue;
+	   text-align: center;
+
+}
+.coil3{
+	width: 10%;
+	font-size: 20px;
+	background: #7ecb6f;
+}
+.coil4{
+	width: 10%;
+	font-size: 20px;
+	background: #839192;
+}
+.coil5{
+	width: 10%;
+	font-size: 20px;
+     background:  #EB984E;
+}
+.coil6{
+	width: 10%;
+	font-size: 20px;
+	background: #4A235A;
+}
+.coil7{
+	width: 10%;
+	font-size: 20px;
+	background:  rgb(52, 73, 94)  ;
+}
+.coil8{
+		width: 10%;
+	font-size: 20px;
+	background:  rgb(25, 111, 61 )  ;
+}
+.coil9{
+		width: 10%;
+	font-size: 20px;
+	background:  rgb(241, 196, 15 )
+
+}
+.coil10{
+	width: 10%;
+	font-size: 20px;
+	background: rgb(100, 30, 22);
+}
+.tra{
+	width: 50%;
+	font-size: 40;
+
+}
+.tran1{
+	margin-top: -70px;
+	width: 250px;
+	height: 50px;
+	background: rgb(00,00,00,.5);
+
+
+	
+}
+.ht1{
+	font-size: 40px;
+	background: grey;
+	width: 120px;
+
+}
+.hdc{
+	background:skyblue;
+	width: 200px;
+}
+.12a{ border: 2px;
+
+}
